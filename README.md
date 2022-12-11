@@ -5,6 +5,6 @@
 - 📫 How to reach me...mbarve53@gmail.com
 
 <!---
-manisha438/manisha438 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
