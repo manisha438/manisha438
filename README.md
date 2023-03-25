@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manisha
 - 👀 I’m interested in learning and gain experience 
-- 🌱 I’m currently learning .. python 
+- 🌱 I’m currently learning .. data science
 - 💞️ I’m looking to collaborate on project that boost my career 
 - 📫 How to reach me...mbarve53@gmail.com
 
