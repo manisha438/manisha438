@@ -1,10 +1,38 @@
-- 👋 Hi, I’m Manisha
-- 👀 I’m interested in learning and gain experience 
-- 🌱 I’m currently learning .. data science
-- 💞️ I’m looking to collaborate on project that boost my career 
-- 📫 How to reach me...mbarve53@gmail.com
+# Hi, I'm Manisha! 👋  
 
-<!---
-Manisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Data Analyst | SQL | Python | Power BI | Tableau**  
+🔍 Passionate about turning raw data into **actionable insights**  
+📊 Skilled in **ETL, Data Cleaning, Visualization & Automation**  
+📬 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/manisha-barve-512065170/) | [Kaggle](https://www.kaggle.com/manishabarve)  
+
+---
+
+## 🔹 Skills & Tools  
+- **SQL:** Data extraction, joins, CTEs, window functions  
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Data Visualization:** Power BI, Tableau, Matplotlib  
+- **ETL & Data Cleaning:** SQL, Python, Power BI  
+
+---
+
+## 📌 Featured Projects  
+
+🔹 [📊 Sales Analysis Dashboard (SQL + Power BI)](https://github.com/your-repo)  
+- Analyzed sales trends & found revenue growth drivers.  
+- Created a Power BI dashboard for interactive insights.  
+
+🔹 [📈 Customer Churn Prediction (SQL + Python)](https://github.com/your-repo)  
+- Predicted churn rates using **Python Machine Learning**.  
+- Used SQL for data extraction & preprocessing.  
+
+🔹 [📉 HR Analytics - Employee Attrition](https://github.com/your-repo)  
+- Built a **Power BI dashboard** analyzing employee attrition trends.  
+- Used SQL to extract key workforce insights.  
+
+
+---
+
+### 📢 **Let's Connect!**  
+💼 I’m looking for **freelance & remote data analyst roles**!  
+📬 Message me on [LinkedIn](https://www.linkedin.com/in/manisha-barve-512065170/)  
+
