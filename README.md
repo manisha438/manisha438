@@ -25,11 +25,6 @@
 - Predicted churn rates using **Python Machine Learning**.  
 - Used SQL for data extraction & preprocessing.  
 
-🔹 [📉 HR Analytics - Employee Attrition](https://github.com/your-repo)  
-- Built a **Power BI dashboard** analyzing employee attrition trends.  
-- Used SQL to extract key workforce insights.  
-
-
 ---
 
 ### 📢 **Let's Connect!**  
